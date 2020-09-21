@@ -1,7 +1,7 @@
 {
   "name": "digi-angler-dark-theme",
   "displayName": "Digi-Angler Dark Theme",
-  "description": "",
+  "description": "Theme based on Dracula for code editor and Darcula for workspace",
   "publisher": "Digi-Angler",
   "author": {
     "name": "Hiroshi Yamamoto"
@@ -9,6 +9,17 @@
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.49.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digiangler/digi-angler-dark-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/digiangler/digi-angler-dark-theme/issues"
+  },
+  "galleryBanner": {
+    "color": "#09131b",
+    "theme": "dark"
   },
   "icon": "images/icon/icon.png",
   "categories": [
@@ -18,7 +29,16 @@
     "Digi-Angler Theme",
     "Dark Theme",
     "Digi-Angler",
-    "Dracula"
+    "Dracula",
+    "Dark",
+    "Theme"
+  ],
+  "badges": [
+    {
+      "url": "https://img.shields.io/twitter/follow/digiangler?style=social",
+      "href": "https://twitter.com/digiangler",
+      "description": "Follow me!"
+    }
   ],
   "contributes": {
     "themes": [
