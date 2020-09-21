@@ -10,17 +10,6 @@
   "engines": {
     "vscode": "^1.49.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/digiangler/digi-angler-dark-theme"
-  },
-  "bugs": {
-    "url": "https://github.com/digiangler/digi-angler-dark-theme/issues"
-  },
-  "galleryBanner": {
-    "color": "#09131b",
-    "theme": "dark"
-  },
   "icon": "images/icon/icon.png",
   "categories": [
     "Themes"
@@ -30,13 +19,6 @@
     "Dark Theme",
     "Digi-Angler",
     "Dracula"
-  ],
-  "badges": [
-    {
-      "url": "https://img.shields.io/badge/SUPPORT%20THIS%20PROJECT-Become%20a%20VS%20Code%20SuperHero%20%E2%86%92-gray?colorA=272727&colorB=ff652f&style=flat",
-      "href": "https://github.com/digiangler",
-      "description": "Support this project!"
-    }
   ],
   "contributes": {
     "themes": [
