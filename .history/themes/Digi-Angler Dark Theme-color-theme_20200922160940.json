@@ -18,12 +18,9 @@
       "#BD93F9",
       "#FF5555",
       "#F1FA8C",
-      "#00E8DC",
-      "#002A32",
-      "#FCC221",
-      "#212529",
-      "#333333",
-      "#D6F02F"
+      "#00e8dc",
+      "#002a32",
+      "#fcc221"
     ],
     "ansi": [
       "#21222C",
@@ -982,7 +979,7 @@
       ],
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#D6F02F"
+        "foreground": "#F8F8F2"
       }
     },
     {
