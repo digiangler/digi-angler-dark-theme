@@ -6,7 +6,7 @@
   "author": {
     "name": "Hiroshi Yamamoto"
   },
-  "version": "0.3.0",
+  "version": "0.4.0",
   "engines": {
     "vscode": "^1.49.0"
   },
@@ -18,7 +18,7 @@
     "url": "https://github.com/digiangler/digi-angler-dark-theme/issues"
   },
   "galleryBanner": {
-    "color": "#09131b",
+    "color": "#00E8DC",
     "theme": "dark"
   },
   "icon": "images/icon/icon.png",
