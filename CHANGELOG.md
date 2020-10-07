@@ -15,3 +15,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.3.0]
 
 - meta.import variable.other.readwrite.alias fix
+
+## [0.4.0]
+
+- meta.import variable.other.readwrite.alias fix
+
+## [0.5.0]
+
+- Comments color change

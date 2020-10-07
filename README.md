@@ -5,6 +5,8 @@
 
 Thanks for checking out my VS Code theme.
 
+[<img src="./images/icon/../vscode.png" />](https://marketplace.visualstudio.com/items?itemName=Digi-Angler.digi-angler-dark-theme)
+
 ## Installation
 
 1. Open the extensions sidebar on Visual Studio Code

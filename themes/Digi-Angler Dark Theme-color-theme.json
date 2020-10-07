@@ -287,7 +287,7 @@
     {
       "scope": ["source"],
       "settings": {
-        "foreground": "#F8F8F2"
+        "foreground": "#FCC221"
       }
     },
     {
@@ -511,7 +511,8 @@
         "wildcard.comment"
       ],
       "settings": {
-        "foreground": "#6272A4"
+        // "foreground": "#6272A4"
+        "foreground": "#FCC221"
       }
     },
     {
